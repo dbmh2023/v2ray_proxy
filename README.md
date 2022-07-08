@@ -3,6 +3,22 @@ v2ray节点
 
 建议每天更新一次订阅
 
-订阅地址：https://raw.githubusercontent.com/Rx5557770/v2ray_proxy/main/Proxy
 
-停机卡订阅地址：https://raw.githubusercontent.com/Rx5557770/v2ray_proxy/main/TingJiKa_V2ray
+汇总国内订阅
+
+https://ghproxy.com/https://raw.githubusercontent.com/Rx5557770/v2ray_proxy/main/Proxy
+
+
+汇总国外订阅 
+
+https://raw.githubusercontent.com/Rx5557770/v2ray_proxy/main/Proxy 
+
+
+ 停机卡国内订阅 
+
+https://ghproxy.com/https://raw.githubusercontent.com/Rx5557770/v2ray_proxy/main/TingJiKa_V2ray
+
+
+停机卡国外订阅
+
+https://raw.githubusercontent.com/Rx5557770/v2ray_proxy/main/TingJiKa_V2ray
