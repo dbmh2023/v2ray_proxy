@@ -6,6 +6,8 @@ v2ray节点
 
 节点源 https://proxy.yiun.xyz
 
+Netflix免费电报机器人 https://t.me/candy123_bot
+
 汇总国内订阅
 
 https://ghproxy.com/https://raw.githubusercontent.com/Rx5557770/v2ray_proxy/main/Proxy
